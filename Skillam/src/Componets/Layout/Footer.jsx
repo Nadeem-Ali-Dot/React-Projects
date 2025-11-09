@@ -89,11 +89,11 @@ function Footer() {
         <p>
           Developed by{" "}
           <a
-            href="https://www.siddharthsingh10x.com/"
+            href="https://my-portfolio-pi-rust-79.vercel.app/"
             target="_blank"
             className="siddharth-link"
           >
-            Siddharth Singh
+            Nadeem Ali
           </a>
         </p>
       </div>
